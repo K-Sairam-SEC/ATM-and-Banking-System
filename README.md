@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240132
+# Name: SAIRAM K
+# Date: 4/6/2026
 
 
 # AIM:
@@ -51,6 +51,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1233" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb106a48-87d0-4315-8fd3-3b73ca8cb4d3" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1203" height="1001" alt="image" src="https://github.com/user-attachments/assets/c57bf8bc-541d-47bb-8554-015e21342d56" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1049" height="803" alt="image" src="https://github.com/user-attachments/assets/b20303a6-d780-40b1-822c-60cbdc2efd4b" />
 
 
 # PACKAGE DIAGRAM:
@@ -89,6 +92,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="965" height="750" alt="image" src="https://github.com/user-attachments/assets/d933768d-eea4-477f-8497-2ddf85f9c164" />
 
 
 
@@ -107,6 +111,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="839" height="846" alt="image" src="https://github.com/user-attachments/assets/22603ad3-0db7-42fd-aca8-4c4184c32c1c" />
 
 
 
@@ -116,6 +121,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="993" height="786" alt="image" src="https://github.com/user-attachments/assets/88910bfa-d69d-4562-8fa1-3b42945a5f1b" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
